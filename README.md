@@ -53,19 +53,9 @@
 
 ## 🌎 Connect With Me
 
-<p align="left">
-  <a href="https://github.com/SEUUSUARIO">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
-  </a>
-
-  <a href="https://linkedin.com">
+  <a href="www.linkedin.com/in/pablicio-sousa-6554462a0">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
   </a>
-
-  <a href="https://instagram.com">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram">
-  </a>
-</p>
 
 ---
 
