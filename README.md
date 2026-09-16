@@ -9,7 +9,7 @@
 👤 **Name:** José Pablicio Sousa Viana  
 🌍 **Location:** Brazil 🇧🇷  
 🎓 **Education:** Degree in Systems Analysis and Development  
-💼 **Role:** Software Engineer  
+💼 **Specialism:** Software Engineer  
 💡 **Focus:** Front-End & Full-Stack Development  
 🎯 **Goal:** Work on international software projects  
 
