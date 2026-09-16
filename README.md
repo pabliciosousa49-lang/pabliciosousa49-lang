@@ -15,7 +15,7 @@
 
 💡 Passionate about technology, software development, and building useful solutions.
 
-⚡ Focused on creating modern, responsive, and well-structured web applications.
+⚡ Focus on creating modern, responsive, and well-structured web applications.
 
 🤖 I use Artificial Intelligence strategically for prompt engineering, project planning, software architecture, code analysis, debugging, and technical documentation—while maintaining full understanding and responsibility for every technical decision..
 
