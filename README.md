@@ -1,7 +1,6 @@
 # 👨‍💻 José Pablicio Sousa Viana
 
-### 🚀 Software Engineering Student  
-### 💻 Software Engineer in Training  
+### 🚀💻 Software Engineering  
 
 ---
 
@@ -9,13 +8,13 @@
 
 👤 **Name:** José Pablicio Sousa Viana  
 🌍 **Location:** Brazil 🇧🇷  
-🎓 **Role:** Software Engineering Student  
+🎓 **Role:** Software Engineering 
 💡 **Focus:** Front-End & Software Development  
 🎯 **Goal:** Become a Professional Software Engineer  
 
 💡 Passionate about technology and software development.  
 
-📚 Currently studying Software Engineering and improving my skills every day.  
+📚 Currently Software Engineering and improving my skills every day.  
 
 ⚡ Focused on creating modern, responsive, and useful applications.  
 
