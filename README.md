@@ -17,7 +17,7 @@
 
 ⚡ Focused on creating modern, responsive, and well-structured web applications.
 
-🤖 🤖 I use Artificial Intelligence strategically for prompt engineering, project planning, software architecture, code analysis, debugging, and technical documentation—while maintaining full understanding and responsibility for every technical decision..
+🤖 I use Artificial Intelligence strategically for prompt engineering, project planning, software architecture, code analysis, debugging, and technical documentation—while maintaining full understanding and responsibility for every technical decision..
 
 🚀 Always looking for new challenges and opportunities to grow as a software engineer.
 
