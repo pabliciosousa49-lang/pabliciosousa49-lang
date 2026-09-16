@@ -52,17 +52,6 @@ A Full-Stack platform that analyzes code using the Gemini API and generates expl
 
 **Technologies:** React, Vite, Node.js, Express, Gemini API and PDFKit.
 
-### 🍽️ EasyOrder
-
-A restaurant order management system designed to handle orders, products, tables, payments, and daily records.
-
-**Focus:** JavaScript, DOM, CRUD, application architecture and progressive Full-Stack development.
-
-### 🗂️ Detran-Dev
-
-A process management system created to replace spreadsheet-based workflows with a centralized digital solution.
-
-**Technologies:** PHP, MySQL, HTML, CSS and JavaScript.
 
 ### 🏦 Banco Inter Landing Page
 
