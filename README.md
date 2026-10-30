@@ -10,7 +10,7 @@
 🌍 **Location:** Brazil 🇧🇷  
 🎓 **Education:** Degree in Systems Analysis and Development  
 💼 **Specialism:** Software Engineer  
-💡 **Focus:** Front-End & Full-Stack Development  
+💡 **Focus:** Full-Stack Development  
 🎯 **Goal:** Work on international software projects  
 
 💡 Passionate about technology, software development, and building useful solutions.
